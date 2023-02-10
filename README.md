@@ -7,9 +7,11 @@ https://github.com/
 https://jitpack.io/
 ```
 
-# 第一步
+# 第一步 
 
-自己导成功一个model，新建一个空白项目，导入进去。然后整个项目上传到GitHub上面去，“这一步基本都会吧”一定要提示成功后才能算真正的上传到了GitHub上面去了。
+“这一步基本都会吧”
+
+自己导成功一个model，新建一个空白项目，导入进去。然后整个项目上传到GitHub上面去，一定要提示成功后才能算真正的上传到了GitHub上面去了。
 
 ![第一步](https://user-images.githubusercontent.com/13359093/217768949-1806d945-2849-4e69-b46d-5cddf3669a61.png)
 

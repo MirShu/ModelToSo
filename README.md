@@ -59,7 +59,7 @@ ext {
 
 ```
 
-然后再引用，这样有主意各个sdk版本的统一管理和一致；
+然后再引用，这样有助于各个sdk版本的统一管理和一致；
 
 ```
   compileSdkVersion rootProject.ext.compileSdkVersion
